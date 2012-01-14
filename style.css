@@ -315,15 +315,16 @@ body {
 
 body, input, textarea {
 	color: #373737;
-	font: 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 15px "Georgia", serif;
 	font-weight: 300;
 	line-height: 1.625;
 }
 body {
-	background: #e2e2e2;
+	background: #12dddd;
 }
 #page {
-	background: #fff;
+	background: #fff; 
+	border: 2px solid #ff0000;
 }
 
 /* Headings */
